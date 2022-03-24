@@ -8,7 +8,7 @@
 
 <h1 align="center">🎄 JustaChecker - A discord token checker with python 3. Open sourced, easy to use<h1>
 <h3 align="center">🎇 Made by kldiscord https://github.com/kldiscord<h3>
-<h3 align="center">🌟 Please leave a star if you liked  JustaChecke<h3>
+<h3 align="center">🌟 Please leave a star if you liked  JustaChecker<h3>
 
 ---
 
