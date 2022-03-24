@@ -24,7 +24,7 @@
  
 > 📷 Webhook screenshot
 
-<p align="left"><img src="![image](https://user-images.githubusercontent.com/86502441/159851929-1d9148cb-978e-4732-ac54-08983b4d144c.png)"</p>
+<p align="left"><img src="https://media.discordapp.net/attachments/953929313235914763/956431544719925268/unknown.png"</p>
 
 ### ❗ About modules
 If requests module is not installed in your victim's computer,
